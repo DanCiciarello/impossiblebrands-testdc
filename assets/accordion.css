@@ -1,0 +1,16 @@
+details-accordion {
+  display:block;
+}
+
+details {
+  padding-bottom: .5em;
+  height: auto;
+  transition: height 1s ease-out;
+  border: 1px solid #efefef;
+  border-radius: 10px;
+  padding: 0 2em .5em 2em;
+}
+
+summary{
+  cursor:pointer; 
+}
